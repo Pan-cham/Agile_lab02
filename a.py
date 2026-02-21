@@ -1,1 +1,3 @@
-print("hello World");
+"""Simple print program"""
+
+print("hello world")
