@@ -1,4 +1,7 @@
-a= 2
-b = 3
-c = a+b
-print(c)
+"""Simple addition program"""
+
+A = 10
+B = 20
+C = A + B
+
+print(C)
