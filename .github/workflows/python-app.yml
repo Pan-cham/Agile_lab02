@@ -37,4 +37,4 @@ jobs:
 
     - name: Run ML Script
       run: |
-        python x.py
+        python az.py
